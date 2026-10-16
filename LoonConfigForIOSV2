@@ -27,7 +27,7 @@ resource-parser = https://github.com/sub-store-org/Sub-Store/releases/latest/dow
 📹 YouTube = select,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
 🎥 Netflix = select,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Netflix.png
 🎬 Disney+ = select,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Disney.png
-🎻 Spotify = select,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
+🎻 Spotify = select,DIRECT,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Spotify.png
 📄 Twitter = select,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Twitter.png
 🪙 Paypal = select,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/PayPal.png
 👤 Facebook = select,🚀 策略选择,🇭🇰 香港节点,🇺🇸 美国节点,🇸🇬 新加坡节点,🇯🇵 日本节点,🇨🇳 台湾节点,🇬🇧 英国节点,🇰🇷 韩国节点,img-url = https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Facebook.png
